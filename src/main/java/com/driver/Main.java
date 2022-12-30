@@ -7,7 +7,5 @@ public class Main {
         System.out.println(bankAccount.generateAccountNumber(3,30));
         bankAccount.deposit(300);
         bankAccount.withdraw(100);
-
-
     }
 }
